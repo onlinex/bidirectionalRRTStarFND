@@ -15,3 +15,4 @@ Left-click on the map to add an obsticle
 
 Right-click on the map to change the goal position
 
+![rrtexamle](https://user-images.githubusercontent.com/29633052/48624148-c8fdcd80-e9bc-11e8-97de-60b8adf9d3b6.png)
