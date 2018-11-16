@@ -1,6 +1,6 @@
 <h2><i> Description </i></h2>
 
-Bidirectional RRT* FND algorithm designed to efficiently search nonconvex, high-dimensional spaces by randomly building a space-filling tree.
+Bidirectional RRT* FND algorithm designed to efficiently search nonconvex, high-dimensional dynamic spaces by randomly building a space-filling tree. It uses a fixed number of nodes, which randomly removes a leaf node in the tree in every iteration. 
 
 <h2><i> Quick start </i></h2>
 <ul>
