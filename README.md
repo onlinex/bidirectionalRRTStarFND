@@ -4,7 +4,7 @@ Bidirectional RRT* FND algorithm designed to efficiently search nonconvex, high-
 
 <h2><i> Quick start </i></h2>
 
-Works stable with Python 3.6.1
+Works stable with <b>Python 3.6.1</b>
 
 <ul>
   <li> Download project </li>
