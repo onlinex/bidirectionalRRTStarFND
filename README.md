@@ -7,12 +7,6 @@ Bidirectional RRT* FND algorithm designed to efficiently search nonconvex, high-
 Project requires <b>pygame</b> and <b>numpy</b> libraries to run
 
 Works stable with <b>Python 3.6.1</b>
-
-<ul>
-  <li> Download project </li>
-  <li> Install numpy </li>
-  <li> Install pygame </li>
-</ul>
  
 <h2><i> Documentation </i></h2>
 
